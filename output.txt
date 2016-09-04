@@ -1,0 +1,23 @@
+c FILE			: output
+c No. of vertices	: 20
+c No. of directed edges	: 15
+c Max. weight		: 100
+c Min. weight		: 0
+c A directed arc from u to v of weight w
+c is represented below as ' a  u  v  w '
+p sp 20 15
+a 2 7 8
+a 2 19 27
+a 3 4 87
+a 3 15 2
+a 4 13 66
+a 5 16 22
+a 8 3 55
+a 9 17 21
+a 10 18 12
+a 12 10 4
+a 13 7 65
+a 14 10 98
+a 14 3 58
+a 15 6 49
+a 20 19 78
